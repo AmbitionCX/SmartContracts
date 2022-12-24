@@ -1,2 +1,3 @@
 # SmartContracts
-Collection of Solidity smart contracts
+
+Collection of Solidity Smart Contracts
